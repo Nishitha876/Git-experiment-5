@@ -6,4 +6,5 @@ DSA
 DSA LAB
 
 new subject: GIT
+new subject: PYTHON
 
